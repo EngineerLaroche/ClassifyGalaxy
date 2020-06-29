@@ -5,10 +5,8 @@
 # Main Matrix and Array
 
 - X --> [n,h,w,c]  (img)
-- X_crop --> [n,h,w,c]  (crop img)
-<br/>
-- Y --> [n,h,w,c]  (labels)
-<br/>
+- X_crop --> [n,h,w,c]  (crop img) <br/>
+- Y --> [n,h,w,c]  (labels) <br/>
 - smooth_index --> list of smooth index
 - spiral_index --> list of spiral index
 
@@ -23,7 +21,7 @@
 - In "galaxy" folder: images folder --> "galaxy_images"
 - In "galaxy" folder: file --> "galaxy_label_data_set.csv"
 
-# Étudiants
+# Collaborateurs
 
 - Alexandre Laroche
 - Marc-Antoine Charland

@@ -1,11 +1,6 @@
-# GTI770
+# Classification Galaxies
 
-- Institution:  ÉTS - École de technologie supérieure
-- Cours:		GTI770 - Systèmes intelligents et apprentissage machine
-- Session:	    Été 2019
-
-- Laboratoire:  TP-01
-- Équipe:		02
+# Apprentissage machine
 
 # Main Matrix and Array
 

@@ -1,5 +1,5 @@
 opencv_contrib_python==3.4.3.18
-numpy==1.15.4
+numpy==1.22.0
 plotly==3.9.0
 scipy==1.1.0
 astropy==3.1.2

@@ -4,5 +4,5 @@ plotly==3.9.0
 scipy==1.1.0
 astropy==3.1.2
 matplotlib==3.0.0
-Pillow==6.0.0
+Pillow==9.3.0
 scikit_learn==0.21.2
